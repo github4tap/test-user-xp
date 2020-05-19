@@ -1,0 +1,24 @@
+body {
+	font-family: Arial, helvetica;
+}
+ul {
+	font-family: monospace;
+}
+li {
+	list-style: circle;
+}
+
+.list {
+	list-style: square;
+}
+
+#date {
+	font-size: 12px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+#h-font-color {
+	font-family: helvetica;
+	color: darkblue;
+}
