@@ -1,7 +1,7 @@
 'use strict';
 //console.log("Here's a hidden message");
 /*
-* This is an multiline
+* This is an multiline...
 * Javascript comment
 */
 let today = new Date();
